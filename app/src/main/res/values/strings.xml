@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My QR Code</string>
+    <string name="qr_code_amp_bar_code_scanner" />
+    <string name="camera" />
+    <string name="gallery" />
+    <string name="scan" />
+</resources>
